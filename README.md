@@ -1,3 +1,5 @@
+# #1
+
 <h1 align="center">Hi 👋, I'm Vladimir</h1>
 <h3 align="center">FullStack & Desktop Software Engineer with an M.Sc. in AI / Computer Science</h3>
 
@@ -29,6 +31,36 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aleethey&show_icons=true&locale=en" alt="aleethey" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleethey&" alt="aleethey" /></p>
+
+
+# #2
+
+
+## 🌐 Socials:
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/aLeeTheY) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aLeeTheY) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aleethey@gmail.com) 
+
+# 💻 Tech Stack:
+![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=plastic&logo=gulp&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=aLeeTheY&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=aLeeTheY&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aLeeTheY&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aLeeTheY&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aLeeTheY&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=aLeeTheY&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# #3
 
 
 ## Hi there 👋
